@@ -1,0 +1,15 @@
+#creating a list of words for the game
+words = ["apple", "banana", "carrot", "dog", "elephant", "fish", "giraffe", "house", "ice cream", "jacket", 
+        "kangaroo", "lion", "mango", "nest", "orange", "penguin", "quilt", "rabbit", "sun", "tiger", 
+        "umbrella", "violet", "watermelon", "xylophone", "yacht", "zebra", "actor", "bicycle", "computer", 
+        "dolphin", "eagle", "football", "guitar", "helicopter", "island", "juice", "keyboard", "lamp", 
+        "mountain", "notebook", "ocean", "piano", "queen", "rainbow", "snake", "tree", "umbrella", "violin", 
+        "whale", "xylophone", "yoga", "zeppelin", "astronaut", "butterfly", "camera", "dancer", "earth", 
+        "flamingo", "globe", "hammer", "igloo", "jungle", "kite", "laptop", "moon", "ninja", "octopus", 
+        "puzzle", "rocket", "sailboat", "tornado", "unicorn", "volcano", "waterfall", "x-ray", "yo-yo", 
+        "zeppelin" "ant", "bear", "cat", "deer", "elephant", "frog", "giraffe", "horse", "iguana", "jaguar", 
+        "koala", "lion", "monkey", "newt", "owl", "penguin", "quail", "rabbit", "sheep", "tiger", "urchin", 
+        "vulture", "whale", "xerus", "yak", "zebra", "accordion", "bagpipes", "cello", "djembe", "euphonium", 
+        "flute", "guitar", "harp", "igil", "jew's harp", "kazoo", "lute", "mandolin", "nyckelharpa", "ocarina", 
+        "piano", "quena", "recorder", "saxophone", "tambourine", "ukulele", "violin", "washboard", "xylophone", 
+        "yangqin", "zither"]
